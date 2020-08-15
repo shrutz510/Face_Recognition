@@ -1,2 +1,2 @@
 # Face_Recognition
-Facial detection and recognition software
+A simple dacial detection and recognition software implemented using python libraries.
